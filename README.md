@@ -1,6 +1,6 @@
 Feet-to-Meter Converter 
 
-[🚀 **Click here for the Live Demo on Replit**]https://feet-to-meter-convertor.onrender.com (browser)
+[🚀 **Click here for the Live Demo]https://feet-to-meter-convertor.onrender.com (browser)
 
 Note: FT2MT.py.py — Original Desktop (Tkinter) Version
 ​app.py — Web (Flask) Version
